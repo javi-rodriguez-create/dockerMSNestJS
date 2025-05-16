@@ -1,0 +1,3 @@
+[submodule "nest-microservice-template"]
+	path = nest-microservice-template
+	url = git@github.com:ndcmsl/nest-microservice-template.git
